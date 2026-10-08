@@ -19,7 +19,7 @@ Consulting für KI / AI.
 
 Ich entwickle professionelle Websites für Sportvereine, Selbstständige & Unternehmen: mit allen Teams, Spielstätten, Produkten und individuell gestalteten Emblemen an einem Ort, schnell online und ohne technischen Aufwand für meine Kunden.
 
-- **Website als Template:** [z. B. Produkte, Teams, Spielorte, Wappen, News, Termine]
+- **Website als Template:** [z. B. Unternehmen, Historie, Teams, Spielorte, Wappen, News, Termine]
 - **Individuelle Anpassung:** [z. B. Farben, Logo, Inhalte, Produkte]
 - **Betreuung:** [z. B. Einrichtung, Hosting, Domain, Support, Weiterentwicklung]
 
