@@ -8,7 +8,7 @@
 Websites, persönlich begleitet & beraten.
 Consulting für KI / AI.
 
-[Website](https://www.ackermann-se.com/) · [LinkedIn](www.linkedin.com/in/carlo-ackermann-cooper-174264231)
+[Website](https://www.ackermann-se.com/) · [LinkedIn] www.linkedin.com/in/carlo-ackermann-cooper-174264231
 
 </div>
 
