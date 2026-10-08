@@ -31,3 +31,24 @@ JavaScript · React · Git & GitHub · Vercel · Hostinger · Node.js · SCSS ·
 
 Sie sind Selbstständig, Vorstand in einem Verein oder einfach Vertreter für Ihr Unternehmen und möchten einen neuen Auftritt?
 Schreiben Sie mir für ein **kostenloses Erstgespräch**: [carlo@ackermann-se.com] oder über das Kontaktformular auf meiner Website:(https://www.ackermann-se.com/).
+
+<details>
+<summary><b>🇬🇧 English version</b></summary>
+
+**Designed for People. Engineered with Trust.**
+Websites, with personalized support and advice.
+AI Consulting.
+
+## What I Do
+
+I develop professional websites for sports clubs, self-employed professionals, and businesses: featuring all teams, venues, products, and custom-designed logos in one place—quickly launched online with no technical hassle for my clients.
+
+## Tech-Stack
+
+JavaScript · React · Git & GitHub · Vercel · Hostinger · Node.js · SCSS · Tailwind
+
+## Working Together
+
+Are you self-employed, a board member of a club, or simply a representative for your company looking to create a new online presence?
+Contact me for a **free initial consultation**: [carlo@ackermann-se.com] or via the contact form on my website: (https://www.ackermann-se.com/).
+
