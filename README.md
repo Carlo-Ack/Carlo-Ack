@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[Pfad/URL zum quadratischen Logo, z. B. 200 px breit]" alt="Logo Ackermann Software Engineering" width="120" />
+<img src="assets/ASE_Logo_400x400.jpg" alt="Logo Ackermann Software Engineering" width="120" />
 
 # Ackermann Software Engineering
 
